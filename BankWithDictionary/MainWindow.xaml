@@ -1,0 +1,26 @@
+﻿<Window x:Class="_12_BankWithDictionary.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_12_BankWithDictionary"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="396" Width="659">
+    <Grid>
+        <TextBlock HorizontalAlignment="Left" Margin="49,50,0,0" TextWrapping="Wrap" Text="Name:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="38,87,0,0" TextWrapping="Wrap" Text="Amount:" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="41,128,0,0" TextWrapping="Wrap" Text="Interest:" VerticalAlignment="Top"/>
+        <TextBox x:Name="TextBoxName" HorizontalAlignment="Left" Height="22" Margin="120,52,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxAmount" HorizontalAlignment="Left" Height="23" Margin="120,86,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="TextBoxInterest" HorizontalAlignment="Left" Height="23" Margin="120,127,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="ButtonAdd" Content="Add" HorizontalAlignment="Left" Margin="269,52,0,0" VerticalAlignment="Top" Width="75" Click="ButtonAdd_Click"/>
+        <Button x:Name="ButtonFind" Content="Find" HorizontalAlignment="Left" Margin="269,85,0,0" VerticalAlignment="Top" Width="75" Click="ButtonFind_Click"/>
+        <Button x:Name="ButtonShowAll" Content="Show All" HorizontalAlignment="Left" Margin="269,130,0,0" VerticalAlignment="Top" Width="75" Click="ButtonShowAll_Click"/>
+        <Button x:Name="ButtonDeposit" Content="Deposit" HorizontalAlignment="Left" Margin="518,184,0,0" VerticalAlignment="Top" Width="76" Click="ButtonDeposit_Click"/>
+        <Button x:Name="ButtonWithdraw" Content="Withdraw" HorizontalAlignment="Left" Margin="520,222,0,0" VerticalAlignment="Top" Width="74" Click="ButtonWithdraw_Click"/>
+        <Button x:Name="ButtonDelete" Content="Delete" HorizontalAlignment="Left" Margin="520,260,0,0" VerticalAlignment="Top" Width="75" Click="ButtonDelete_Click"/>
+        <Button x:Name="ButtonClose" Content="Close" HorizontalAlignment="Left" Margin="520,302,0,0" VerticalAlignment="Top" Width="75" Click="ButtonClose_Click"/>
+        <ListBox x:Name="ListboxBank" HorizontalAlignment="Left" Height="138" Margin="49,184,0,0" VerticalAlignment="Top" Width="431" SelectionChanged="ListboxBank_SelectionChanged"/>
+
+    </Grid>
+</Window>

@@ -1,0 +1,52 @@
+D:\SEW\Übungen\12_BankWithDictionary\bin\Debug\12_BankWithDictionary.exe.config
+D:\SEW\Übungen\12_BankWithDictionary\bin\Debug\12_BankWithDictionary.exe
+D:\SEW\Übungen\12_BankWithDictionary\bin\Debug\12_BankWithDictionary.pdb
+D:\SEW\Übungen\12_BankWithDictionary\obj\Debug\12_BankWithDictionary.csprojAssemblyReference.cache
+D:\SEW\Übungen\12_BankWithDictionary\obj\Debug\MainWindow.g.cs
+D:\SEW\Übungen\12_BankWithDictionary\obj\Debug\App.g.cs
+D:\SEW\Übungen\12_BankWithDictionary\obj\Debug\12_BankWithDictionary_MarkupCompile.cache
+D:\SEW\Übungen\12_BankWithDictionary\obj\Debug\12_BankWithDictionary_MarkupCompile.lref
+D:\SEW\Übungen\12_BankWithDictionary\obj\Debug\MainWindow.baml
+D:\SEW\Übungen\12_BankWithDictionary\obj\Debug\12_BankWithDictionary.g.resources
+D:\SEW\Übungen\12_BankWithDictionary\obj\Debug\_12_BankWithDictionary.Properties.Resources.resources
+D:\SEW\Übungen\12_BankWithDictionary\obj\Debug\12_BankWithDictionary.csproj.GenerateResource.cache
+D:\SEW\Übungen\12_BankWithDictionary\obj\Debug\12_BankWithDictionary.csproj.CoreCompileInputs.cache
+D:\SEW\Übungen\12_BankWithDictionary\obj\Debug\12_BankWithDictionary.exe
+D:\SEW\Übungen\12_BankWithDictionary\obj\Debug\12_BankWithDictionary.pdb
+F:\SEW\Übungen\12_BankWithDictionary\obj\Debug\12_BankWithDictionary.csprojAssemblyReference.cache
+F:\SEW\Übungen\12_BankWithDictionary\obj\Debug\MainWindow.g.cs
+F:\SEW\Übungen\12_BankWithDictionary\obj\Debug\App.g.cs
+F:\SEW\Übungen\12_BankWithDictionary\obj\Debug\12_BankWithDictionary_MarkupCompile.cache
+F:\SEW\Übungen\12_BankWithDictionary\obj\Debug\12_BankWithDictionary_MarkupCompile.lref
+F:\SEW\Übungen\12_BankWithDictionary\obj\Debug\12_BankWithDictionary.exe
+F:\SEW\Übungen\12_BankWithDictionary\obj\Debug\12_BankWithDictionary.pdb
+F:\SEW\Übungen\12_BankWithDictionary - Copy\obj\Debug\12_BankWithDictionary.csprojAssemblyReference.cache
+F:\SEW\Übungen\12_BankWithDictionary - Copy\obj\Debug\MainWindow.g.cs
+F:\SEW\Übungen\12_BankWithDictionary - Copy\obj\Debug\App.g.cs
+F:\SEW\Übungen\12_BankWithDictionary - Copy\obj\Debug\12_BankWithDictionary_MarkupCompile.cache
+F:\SEW\Übungen\12_BankWithDictionary - Copy\obj\Debug\12_BankWithDictionary_MarkupCompile.lref
+F:\SEW\Übungen\12_BankWithDictionary - Copy\obj\Debug\12_BankWithDictionary.exe
+F:\SEW\Übungen\12_BankWithDictionary - Copy\obj\Debug\12_BankWithDictionary.pdb
+F:\SEW\Übungen\12_BankWithDictionary - Copy\bin\Debug\12_BankWithDictionary.exe.config
+F:\SEW\Übungen\12_BankWithDictionary - Copy\bin\Debug\12_BankWithDictionary.exe
+F:\SEW\Übungen\12_BankWithDictionary - Copy\bin\Debug\12_BankWithDictionary.pdb
+F:\SEW\Übungen\12_BankWithDictionary - Copy\obj\Debug\MainWindow.baml
+F:\SEW\Übungen\12_BankWithDictionary - Copy\obj\Debug\12_BankWithDictionary.g.resources
+F:\SEW\Übungen\12_BankWithDictionary - Copy\obj\Debug\_12_BankWithDictionary.Properties.Resources.resources
+F:\SEW\Übungen\12_BankWithDictionary - Copy\obj\Debug\12_BankWithDictionary.csproj.GenerateResource.cache
+F:\SEW\Übungen\12_BankWithDictionary - Copy\obj\Debug\12_BankWithDictionary.csproj.CoreCompileInputs.cache
+F:\SEW\Übungen\12_BankWithDictionary_Schuhmandl_Eric\bin\Debug\12_BankWithDictionary.exe.config
+F:\SEW\Übungen\12_BankWithDictionary_Schuhmandl_Eric\bin\Debug\12_BankWithDictionary.exe
+F:\SEW\Übungen\12_BankWithDictionary_Schuhmandl_Eric\bin\Debug\12_BankWithDictionary.pdb
+F:\SEW\Übungen\12_BankWithDictionary_Schuhmandl_Eric\obj\Debug\12_BankWithDictionary.csprojAssemblyReference.cache
+F:\SEW\Übungen\12_BankWithDictionary_Schuhmandl_Eric\obj\Debug\MainWindow.g.cs
+F:\SEW\Übungen\12_BankWithDictionary_Schuhmandl_Eric\obj\Debug\App.g.cs
+F:\SEW\Übungen\12_BankWithDictionary_Schuhmandl_Eric\obj\Debug\12_BankWithDictionary_MarkupCompile.cache
+F:\SEW\Übungen\12_BankWithDictionary_Schuhmandl_Eric\obj\Debug\12_BankWithDictionary_MarkupCompile.lref
+F:\SEW\Übungen\12_BankWithDictionary_Schuhmandl_Eric\obj\Debug\MainWindow.baml
+F:\SEW\Übungen\12_BankWithDictionary_Schuhmandl_Eric\obj\Debug\12_BankWithDictionary.g.resources
+F:\SEW\Übungen\12_BankWithDictionary_Schuhmandl_Eric\obj\Debug\_12_BankWithDictionary.Properties.Resources.resources
+F:\SEW\Übungen\12_BankWithDictionary_Schuhmandl_Eric\obj\Debug\12_BankWithDictionary.csproj.GenerateResource.cache
+F:\SEW\Übungen\12_BankWithDictionary_Schuhmandl_Eric\obj\Debug\12_BankWithDictionary.csproj.CoreCompileInputs.cache
+F:\SEW\Übungen\12_BankWithDictionary_Schuhmandl_Eric\obj\Debug\12_BankWithDictionary.exe
+F:\SEW\Übungen\12_BankWithDictionary_Schuhmandl_Eric\obj\Debug\12_BankWithDictionary.pdb
